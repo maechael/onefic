@@ -1,0 +1,1 @@
+// var cities = $('#test').filterMultiSelect();

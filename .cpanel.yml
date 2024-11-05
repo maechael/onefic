@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/mlh4xdc667vb/public_subdomain/
+    - /bin/cp -R /home/mlh4xdc667vb/repositories/ficphil $DEPLOYPATH
